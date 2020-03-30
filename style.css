@@ -13,3 +13,7 @@ body {
     page-break-before: always;
     }
 }
+#viz1,#viz2,#viz3{
+width: 80%;
+height: 300px;
+}
